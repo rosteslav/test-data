@@ -1,2 +1,6 @@
 source_url	source_url_normalized	ref	fact	bias
-http://www.cnn.com	cnn.com http://mediabiasfactcheck.com/cnn/  mixed	left
+https://crooked.com	crooked.com	https://mediabiasfactcheck.com/crooked-media/	high	left
+http://deepleftfield.info	deepleftfield.info	https://mediabiasfactcheck.com/deep-left-field/	mixed	left
+https://antifascistnews.net	antifascistnews.net	https://mediabiasfactcheck.com/anti-fascist-news/	high	left
+http://www.cnn.com	cnn.com	http://mediabiasfactcheck.com/cnn/	mixed	left
+http://www.allthatsfab.com	allthatsfab.com	http://mediabiasfactcheck.com/all-thats-fab/	mixed	left
