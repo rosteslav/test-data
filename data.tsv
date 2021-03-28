@@ -1,2 +1,5 @@
 source_url	source_url_normalized	ref	fact	bias
-http://www.cnn.com	cnn.com	http://mediabiasfactcheck.com/cnn/	mixed	left
+https://www.iea.org	iea.org	http://mediabiasfactcheck.com/international-energy-agency-iea/	high	center
+http://www.oann.com	oann.com	http://mediabiasfactcheck.com/one-america-news-network/	mixed	right
+https://www.rferl.org	rferl.org	https://mediabiasfactcheck.com/radio-free-europe-radio-liberty/	high	center
+http://memepoliceman.com	memepoliceman.com	http://mediabiasfactcheck.com/the-meme-policeman/	high	center
