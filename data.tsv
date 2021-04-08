@@ -1,6 +1,8 @@
 source_url	source_url_normalized	ref	fact	bias
-https://www.jihadwatch.org	jihadwatch.org	http://mediabiasfactcheck.com/jihad-watch/	low	right
-http://bnonews.com	bnonews.com	https://mediabiasfactcheck.com/bno-news/	high	center
-http://ussanews.com	ussanews.com	https://mediabiasfactcheck.com/ussa-news/	mixed	right
 http://www.cnn.com	cnn.com	http://mediabiasfactcheck.com/cnn/	mixed	left
 https://crooked.com	crooked.com	https://mediabiasfactcheck.com/crooked-media/	high	left
+http://rinf.com	rinf.com	https://mediabiasfactcheck.com/rinf/	low	right
+http://truthuncensored.net	truthuncensored.net	https://mediabiasfactcheck.com/truth-uncensored/	low	right
+https://mynewsguru.com	mynewsguru.com	https://mediabiasfactcheck.com/the-news-guru/	low	right
+https://triggerreset.net	triggerreset.net	https://mediabiasfactcheck.com/triggerreset/	low	right
+https://freetelegraph.com	freetelegraph.com	https://mediabiasfactcheck.com/the-free-telegraph/	low	right
